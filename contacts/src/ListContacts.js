@@ -9,7 +9,7 @@ class ListContacts extends Component {
 }
 
   state = {
-    query: ''
+    query: '1'
   }
 
   updateQuery = (query) => {
